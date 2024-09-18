@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavin Shah</h1>
 <h3 align="center">A passionate and enthusiastic developer</h3>
 
-- 🔭 I’m currently working on [DocLink](https://github.com/Kris0011/DocLink)
+- 🔭 I’m currently working on [ParkEZ](https://github.com/Kris0011/ParkEZ)
 
 - 🌱 I’m currently learning **MERN**
 
