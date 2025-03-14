@@ -1,9 +1,12 @@
 # 👋 Kavin Shah
 
 **Software Engineer • Ankleshwar, Gujarat 393002**  
+
 📧 [kavinshah290304@gmail.com](mailto:kavinshah290304@gmail.com)  
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)  
+
 
 ---
 
