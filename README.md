@@ -32,7 +32,7 @@ Enthusiastic and motivated Computer Engineering student with a solid academic fo
 
 ## 🏆 Coding Profiles & Hackathons  
 
-- **600+ DSA problems** solved, **LeetCode contest rating: 1,676 (Top 15%)**  
+- **LeetCode contest rating: 1,676 (Top 15%)**  
 - 🏆 **2nd place** in **ICPC DDU Edition**  
 - **Pupil on Codeforces**, **3⭐ on CodeChef**  
 - 🥇 **Finalist in Odoo X Charusat Hackathon** (2200+ participants)  
@@ -84,3 +84,7 @@ Problem-Solving, DSA, DBMS, SDLC, OOP, OS
 ## 🌟 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=kavinshahh29&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
