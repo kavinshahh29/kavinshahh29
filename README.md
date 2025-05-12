@@ -5,7 +5,7 @@
 📧 [kavinshah290304@gmail.com](mailto:kavinshah290304@gmail.com)  
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavin-shah-1bb607251/)  
 
 
 ---
@@ -83,7 +83,7 @@ Problem-Solving, DSA, DBMS, SDLC, OOP, OS
 
 ## 🌟 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavin-shah-1bb607251/)  
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kavinshahh29&label=Profile%20Views&color=0e75b6&style=for-the-badge)
