@@ -32,12 +32,11 @@ Enthusiastic and motivated Computer Engineering student with a solid academic fo
 
 ## 🏆 Coding Profiles & Hackathons  
 
-- **LeetCode contest rating: 1,676 (Top 15%)**  
+- **LeetCode contest rating: 1,745 (Top 10%)**  
 - 🏆 **2nd place** in **ICPC DDU Edition**  
 - **Pupil on Codeforces**, **3⭐ on CodeChef**  
 - 🥇 **Finalist in Odoo X Charusat Hackathon** (2200+ participants)  
 - 🔥 **Top 15** in **National Level Hackathon DU Hacks 4.0**  
-- 💻 Participated in **DU Hacks 3.0**  
 
 ---
 
