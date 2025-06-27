@@ -14,13 +14,13 @@
 
 Enthusiastic and motivated Computer Engineering student with a solid academic foundation in programming, software development, and algorithms. Adept at solving complex problems and collaborating effectively in team environments to deliver high-quality projects on time.  
 
-✔️ Solved **1200+ problems** on LeetCode, GeeksforGeeks, and Codeforces.  
+✔️ Solved **1500+ problems** on LeetCode, GeeksforGeeks, and Codeforces.  
 ✔️ Eager to contribute to innovative solutions in a dynamic tech company.  
 
 ## 🎓 Education  
 
 🎓 **B.Tech in Computer Engineering** (2022 – 2026)  
-📍 Dharmsinh Desai University, CGPA: **8.65**  
+📍 Dharmsinh Desai University, CGPA: **8.58/10.0**  
 
 📖 **Higher Secondary Education** (2020 – 2022)  
 📍 Advait Vidhyaniketan, PR: **93.94**  
